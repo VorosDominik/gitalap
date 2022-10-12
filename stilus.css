@@ -1,4 +1,39 @@
-body {
-    background-color: brown;
-    color: beige;
+
+body{
+background-color: blue;
+margin: 0;
+padding: 0;
+color: cadetblue;
+}
+
+#wrapper{
+margin: auto;
+padding: auto;
+background-color: aqua;
+
+
+}
+.jobb{
+
+
+    clear: both;
+}
+
+.bal{
+
+
+    clear: both;
+}
+
+
+.jobb img{
+float: right;
+
+}
+
+
+.bal img{
+
+float: left;
+
 }
